@@ -10,9 +10,3 @@ Zahnen Technik GmbH is a leading company specializing in water engineering perfo
 
 ## Expertise
 With a proven track record in both national and international projects, Zahnen Technik GmbH has successfully implemented innovative solutions in water engineering performance. Our team of experts combines technical proficiency with a deep understanding of environmental challenges to deliver sustainable outcomes.
-
-## Contact Us
-For inquiries or consultations, please reach out to us:
-- Email: info@zahnen-technik.de
-- Phone: +49 6550 9290–0
-- Website: [www.zahnen-technik.de](https://zahnen-technik.de/)
